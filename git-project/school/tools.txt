@@ -1,2 +1,6 @@
 some text is to be written for fetching data
+<<<<<<< HEAD
 greetings from my computer
+=======
+greetings from github
+>>>>>>> fb1e7f7b66fb3480f4fc3867382f7cb0aa88cb0e
